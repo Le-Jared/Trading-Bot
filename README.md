@@ -1,8 +1,8 @@
-Readme for Integrated Trading Bot System
-Overview
+
+# Overview
 This document outlines the integration of five distinct types of trading bots into a unified trading system. Each bot specializes in a unique strategy, allowing the system to adapt to various market conditions and optimize trading performance. The integrated system includes Trend-Following Bots, Arbitrage Bots, Mean-Reversion Bots, News-Based Bots, and High-Frequency Bots.
 
-Objectives
+# Objectives
 To combine different trading strategies into a cohesive system.
 To capitalize on a wide range of market opportunities.
 To provide flexibility and adaptability in varying market conditions.
