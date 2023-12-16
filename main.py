@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier  # Example for ML model
 import logging
 import matplotlib.pyplot as plt
 
-class AdvancedTradingBot:
+class TradingBot:
     def __init__(self, api_key, api_secret):
         self.api_key = api_key
         self.api_secret = api_secret
@@ -74,7 +74,7 @@ class AdvancedTradingBot:
 
 
 # Initialize bot
-bot = AdvancedTradingBot('<your_api_key>', '<your_api_secret>')
+bot = TradingBot('<your_api_key>', '<your_api_secret>')
 
 # Main trading loop
 while True:
