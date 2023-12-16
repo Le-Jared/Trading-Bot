@@ -11,25 +11,25 @@ Trend-Following Bots
 
 Bot Descriptions
 1. Trend-Following Bots
-Objective: Harness market trends for trading decisions.
-Strategy: Employ technical analysis tools like moving averages and trend lines.
-Key Tasks: Identify market trends, optimize trade entry and exit points.
+- Objective: Harness market trends for trading decisions.
+- Strategy: Employ technical analysis tools like moving averages and trend lines.
+- Key Tasks: Identify market trends, optimize trade entry and exit points.
 2. Arbitrage Bots
-Objective: Capitalize on price differentials across markets/exchanges.
-Strategy: Continuously monitor diverse markets for price variations.
-Key Tasks: Execute trades exploiting price disparities.
+- Objective: Capitalize on price differentials across markets/exchanges.
+- Strategy: Continuously monitor diverse markets for price variations.
+- Key Tasks: Execute trades exploiting price disparities.
 3. Mean-Reversion Bots
-Objective: Benefit from price fluctuations around the mean.
-Strategy: Utilize statistical analysis and technical indicators for market insights.
-Key Tasks: Detect price deviations, trade anticipating mean reversion.
+- Objective: Benefit from price fluctuations around the mean.
+- Strategy: Utilize statistical analysis and technical indicators for market insights.
+- Key Tasks: Detect price deviations, trade anticipating mean reversion.
 4. News-Based Bots
-Objective: Trade based on insights from news and social media.
-Strategy: Analyze media sources for impactful market information.
-Key Tasks: Scrutinize for key words/phrases, execute information-driven trades.
+- Objective: Trade based on insights from news and social media.
+- Strategy: Analyze media sources for impactful market information.
+- Key Tasks: Scrutinize for key words/phrases, execute information-driven trades.
 5. High-Frequency Bots
-Objective: Perform ultra-fast trading operations.
-Strategy: Implement sophisticated algorithms and machine learning.
-Key Tasks: Rapidly identify and act on market inefficiencies.
+- Objective: Perform ultra-fast trading operations.
+- Strategy: Implement sophisticated algorithms and machine learning.
+- Key Tasks: Rapidly identify and act on market inefficiencies.
 
 # Integration Checklist
 
